@@ -1,7 +1,11 @@
  PASTE – Code & Notes Saver Web App
+
+ 
  Tech Stack: React, Redux Toolkit, React Router, Tailwind CSS, JavaScript,
  LocalStorage
+ 
  Description:
+ 
  Developed a fully functional paste management web application that
  allows users to save, copy, edit, and delete code snippets or text notes,
  enhancing productivity for developers and writers.
